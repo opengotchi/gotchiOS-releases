@@ -17,4 +17,4 @@ versions/
 
 ## Latest
 
-**v0.0.4** — `latest.bin`
+**v0.0.5** — `latest.bin` (standalone OTA binary, 1.35MB)

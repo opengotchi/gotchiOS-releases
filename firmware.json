@@ -1,6 +1,19 @@
 {
-  "latest": "v0.0.4",
+  "latest": "v0.0.5",
   "versions": {
+    "v0.0.5": {
+      "tag": "v0.0.5",
+      "date": "2026-03-15",
+      "is_stable": true,
+      "note": "standalone OTA binary (app partition only)",
+      "files": {
+        "gotchiOS-v0.0.5.bin": {
+          "path": "versions/v0.0.5/gotchiOS-v0.0.5.bin",
+          "size": 1358656,
+          "md5": "8addfb5ee7363352aa6b2fe4084f8469"
+        }
+      }
+    },
     "v0.0.4": {
       "tag": "v0.0.4",
       "date": "2026-03-15",
