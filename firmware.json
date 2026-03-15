@@ -1,64 +1,16 @@
 {
-  "latest": "v0.0.5",
+  "latest": "v0.0.1",
   "versions": {
-    "v0.0.5": {
-      "tag": "v0.0.5",
-      "date": "2026-03-15",
+    "v0.0.1": {
+      "tag": "v0.0.1",
+      "date": "2026-03-16",
       "is_stable": true,
       "note": "standalone OTA binary (app partition only)",
       "files": {
-        "gotchiOS-v0.0.5.bin": {
-          "path": "versions/v0.0.5/gotchiOS-v0.0.5.bin",
-          "size": 1358656,
-          "md5": "8addfb5ee7363352aa6b2fe4084f8469"
-        }
-      }
-    },
-    "v0.0.4": {
-      "tag": "v0.0.4",
-      "date": "2026-03-15",
-      "is_stable": true,
-      "files": {
-        "gotchiOS-v0.0.4.bin": {
-          "path": "versions/v0.0.4/gotchiOS-v0.0.4.bin",
-          "size": 4268032,
-          "md5": "ad7af53f29a7793c0b4af6246084fed7"
-        }
-      }
-    },
-    "v0.0.3": {
-      "tag": "v0.0.3",
-      "date": "2026-03-15",
-      "is_stable": true,
-      "files": {
-        "gotchiOS-v0.0.3.bin": {
-          "path": "versions/v0.0.3/gotchiOS-v0.0.3.bin",
-          "size": 4268032,
-          "md5": "5e92ffff650be9263d8b495f13412c56"
-        }
-      }
-    },
-    "v0.0.2": {
-      "tag": "v0.0.2",
-      "date": "2026-03-15",
-      "is_stable": true,
-      "files": {
-        "gotchiOS-v0.0.2.bin": {
-          "path": "versions/v0.0.2/gotchiOS-v0.0.2.bin",
-          "size": 4268032,
-          "md5": "b2d630c56dc9958f3fca4d91e96614cc"
-        }
-      }
-    },
-    "v0.0.1": {
-      "tag": "v0.0.1",
-      "date": "2026-03-15",
-      "is_stable": true,
-      "files": {
         "gotchiOS-v0.0.1.bin": {
           "path": "versions/v0.0.1/gotchiOS-v0.0.1.bin",
-          "size": 4268032,
-          "md5": "d8aabf106671d28125ad1bafc4a53ec5"
+          "size": 1350880,
+          "md5": "00ab435a858b84847e75c703dbb6b15a"
         }
       }
     }
