@@ -17,4 +17,4 @@ versions/
 
 ## Latest
 
-**v0.0.1** — `latest.bin`
+**v0.0.2** — `latest.bin`

@@ -1,6 +1,18 @@
 {
-  "latest": "v0.0.1",
+  "latest": "v0.0.2",
   "versions": {
+    "v0.0.2": {
+      "tag": "v0.0.2",
+      "date": "2026-03-15",
+      "is_stable": true,
+      "files": {
+        "gotchiOS-v0.0.2.bin": {
+          "path": "versions/v0.0.2/gotchiOS-v0.0.2.bin",
+          "size": 4268032,
+          "md5": "b2d630c56dc9958f3fca4d91e96614cc"
+        }
+      }
+    },
     "v0.0.1": {
       "tag": "v0.0.1",
       "date": "2026-03-15",
