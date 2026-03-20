@@ -1,6 +1,30 @@
 {
-  "latest": "v0.0.4",
+  "latest": "v0.0.69",
   "versions": {
+    "v0.0.69": {
+      "tag": "v0.0.69",
+      "date": "2026-03-18",
+      "is_stable": true,
+      "files": {
+        "gotchiOS-v0.0.69.bin": {
+          "path": "versions/v0.0.69/gotchiOS-v0.0.69.bin",
+          "size": 1385024,
+          "md5": "f95be569f82f63f809c770fdd4c57f29"
+        }
+      }
+    },
+    "v0.0.5": {
+      "tag": "v0.0.5",
+      "date": "2026-03-17",
+      "is_stable": true,
+      "files": {
+        "gotchiOS-v0.0.5.bin": {
+          "path": "versions/v0.0.5/gotchiOS-v0.0.5.bin",
+          "size": 1358896,
+          "md5": "a45a4c10fb008a4a83e35f62146f725f"
+        }
+      }
+    },
     "v0.0.4": {
       "tag": "v0.0.4",
       "date": "2026-03-16",
