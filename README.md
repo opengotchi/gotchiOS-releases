@@ -71,6 +71,12 @@ Source code: [opengotchi/gotchiOS](https://github.com/opengotchi/gotchiOS) (priv
 
 5. The device will reset automatically and boot into the new firmware.
 
+---
+
+**FOR MAINTAINERS**
+
+---
+
 ## Adding a New Device
 
 1. Create a new directory at the repo root (e.g. `myDevice/`)
