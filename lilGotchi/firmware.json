@@ -2,15 +2,15 @@
   "latest": "v0.0.69",
   "versions": {
     "v0.0.69": {
-      "tag": "v0.0.69",
+      "tag": "lilGotchi-v0.0.69",
       "date": "2026-03-21",
       "device_type": "lilGotchi",
       "is_stable": true,
       "files": {
         "gotchiOS-v0.0.69.bin": {
           "path": "lilGotchi/versions/v0.0.69/gotchiOS-v0.0.69.bin",
-          "size": 1385072,
-          "md5": "af6af16b30a9a3bae237f9cf35e6c222"
+          "size": 1394960,
+          "md5": "29e5bab41608ccb67fe3f85104f8b0b3"
         }
       }
     }
