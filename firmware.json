@@ -3,7 +3,8 @@
   "versions": {
     "v0.0.69": {
       "tag": "v0.0.69",
-      "date": "2026-03-18",
+      "date": "2026-03-21",
+      "device_type": "gotchi-1",
       "is_stable": true,
       "files": {
         "gotchiOS-v0.0.69.bin": {
