@@ -8,68 +8,8 @@
       "files": {
         "gotchiOS-v0.0.69.bin": {
           "path": "versions/v0.0.69/gotchiOS-v0.0.69.bin",
-          "size": 1385024,
-          "md5": "f95be569f82f63f809c770fdd4c57f29"
-        }
-      }
-    },
-    "v0.0.5": {
-      "tag": "v0.0.5",
-      "date": "2026-03-17",
-      "is_stable": true,
-      "files": {
-        "gotchiOS-v0.0.5.bin": {
-          "path": "versions/v0.0.5/gotchiOS-v0.0.5.bin",
-          "size": 1358896,
-          "md5": "a45a4c10fb008a4a83e35f62146f725f"
-        }
-      }
-    },
-    "v0.0.4": {
-      "tag": "v0.0.4",
-      "date": "2026-03-16",
-      "is_stable": true,
-      "files": {
-        "gotchiOS-v0.0.4.bin": {
-          "path": "versions/v0.0.4/gotchiOS-v0.0.4.bin",
-          "size": 1351904,
-          "md5": "2026ccdacff55a74fabd6221166205cc"
-        }
-      }
-    },
-    "v0.0.3": {
-      "tag": "v0.0.3",
-      "date": "2026-03-16",
-      "is_stable": true,
-      "files": {
-        "gotchiOS-v0.0.3.bin": {
-          "path": "versions/v0.0.3/gotchiOS-v0.0.3.bin",
-          "size": 1351904,
-          "md5": "7c97155f32cedf3ff3a6c44d0a3e9afd"
-        }
-      }
-    },
-    "v0.0.2": {
-      "tag": "v0.0.2",
-      "date": "2026-03-16",
-      "is_stable": true,
-      "files": {
-        "gotchiOS-v0.0.2.bin": {
-          "path": "versions/v0.0.2/gotchiOS-v0.0.2.bin",
-          "size": 1350896,
-          "md5": "dff10a37bd5ccd8b8b58f1c05b840932"
-        }
-      }
-    },
-    "v0.0.1": {
-      "tag": "v0.0.1",
-      "date": "2026-03-16",
-      "is_stable": true,
-      "files": {
-        "gotchiOS-v0.0.1.bin": {
-          "path": "versions/v0.0.1/gotchiOS-v0.0.1.bin",
-          "size": 1350880,
-          "md5": "00ab435a858b84847e75c703dbb6b15a"
+          "size": 1385072,
+          "md5": "af6af16b30a9a3bae237f9cf35e6c222"
         }
       }
     }
