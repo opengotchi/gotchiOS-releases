@@ -3,14 +3,14 @@
   "versions": {
     "v0.0.420": {
       "tag": "lilGotchi-v0.0.420",
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "device_type": "lilGotchi",
       "is_stable": true,
       "files": {
         "gotchiOS-v0.0.420.bin": {
           "path": "lilGotchi/versions/v0.0.420/gotchiOS-v0.0.420.bin",
-          "size": 1740528,
-          "md5": "89a4fb79341573bdaba2f6ff1d971ad5"
+          "size": 1740640,
+          "md5": "1df9ea1e138e3bb002bc47c2d0435e9c"
         }
       }
     }
