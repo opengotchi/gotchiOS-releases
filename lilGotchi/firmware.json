@@ -1,6 +1,19 @@
 {
-  "latest": "v0.0.420",
+  "latest": "v0.0.421",
   "versions": {
+    "v0.0.421": {
+      "tag": "lilGotchi-v0.0.421",
+      "date": "2026-04-03",
+      "device_type": "lilGotchi",
+      "is_stable": true,
+      "files": {
+        "gotchiOS-v0.0.421.bin": {
+          "path": "lilGotchi/versions/v0.0.421/gotchiOS-v0.0.421.bin",
+          "size": 1740640,
+          "md5": "02baf69ee61a08ec54334b12c59884ae"
+        }
+      }
+    },
     "v0.0.420": {
       "tag": "lilGotchi-v0.0.420",
       "date": "2026-03-26",
